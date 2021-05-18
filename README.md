@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cesar
-- 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning in school for Computer Engineering
--
+
+- 🌱 I’m currently in school for Computer Engineering
+
 - 📫 How to reach me : nearbevi@gmail.com
 
 <!---
